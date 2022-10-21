@@ -2,7 +2,7 @@ Hi there
 
 
 ![JAVA](https://img.shields.io/static/v1?label=<JAVA>&message=<MESSAGE>&color=<yellowgreen>)
-![PYTHON](https://img.shields.io/badge/v1?label=<PYTHON>&message=<MESSAGE>&color=<yellowgreen>)
+![PYTHON](https://img.shields.io/static/v1?label=<PYTHON>&message=<MESSAGE>&color=<yellowgreen>)
 ![HTML](https://img.shields.io/static/v1?label=<HTML>&message=<MESSAGE>&color=<yellowgreen>)
 ![CSS](https://img.shields.io/static/v1?label=<CSS>&message=<MESSAGE>&color=<yellowgreen>)
 ![JAVASCRIPT](https://img.shields.io/static/v1?label=<JAVASCRIPT>&message=<MESSAGE>&color=<yellowgreen>)
