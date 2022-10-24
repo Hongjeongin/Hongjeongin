@@ -36,3 +36,7 @@
 
 ### Language Study: Java
 * [Data Structure](https://github.com/Hongjeongin/backjoon_DataStructure)
+
+### Portfolio
+* [Version_1.1](https://github.com/Hongjeongin/portFoilo)
+* [Version_1.2](https://github.com/Hongjeongin/Portfolio_v_1.2)
