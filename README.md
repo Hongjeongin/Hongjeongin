@@ -2,7 +2,6 @@
 > ### Welcome to my Github
 > ### My Portfolio(URL) - <http://hji-portfolio.shop>   
 
-
 ## Using Skills
 ![PYTHON](https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
