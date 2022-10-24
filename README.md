@@ -1,6 +1,6 @@
 # Hello, I'm Jeongin Hong
 > ### Welcome to my Github
-> ### My Portfolio - <http://hji-portfolio.shop>   
+> ### My Portfolio(URL) - <http://hji-portfolio.shop>   
 
 
 ## My Skills
