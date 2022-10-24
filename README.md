@@ -1,16 +1,21 @@
-Hi there
+Hi, there
 
+Welcome to my Github
 
-![JAVA](https://img.shields.io/static/v1?label=<JAVA>&message=<MESSAGE>&color=<yellowgreen>)
-![PYTHON](https://img.shields.io/static/v1?label=<PYTHON>&message=<MESSAGE>&color=<yellowgreen>)
-![HTML](https://img.shields.io/static/v1?label=<HTML>&message=<MESSAGE>&color=<yellowgreen>)
-![CSS](https://img.shields.io/static/v1?label=<CSS>&message=<MESSAGE>&color=<yellowgreen>)
-![JAVASCRIPT](https://img.shields.io/static/v1?label=<JAVASCRIPT>&message=<MESSAGE>&color=<yellowgreen>)
+## My Skills
+![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white)
+![PYTHON](https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![DOCKER](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
-Communication tools   
-![FIGMA](https://img.shields.io/static/v1?label=<FIGMA>&message=<MESSAGE>&color=<yellowgreen>)
+## Communication
+![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white)
 
-Version Control   
-![GITHUB](https://img.shields.io/static/v1?label=<GITHUB>&message=<MESSAGE>&color=<yellowgreen>)
+## Version Control
+![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white)
 
+## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongjeongin&layout=compact&theme=tokyonight)
