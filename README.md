@@ -20,3 +20,19 @@
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongjeongin&layout=compact&theme=tokyonight)
+
+## Repositories
+### Language Study: C
+* [String](https://github.com/Hongjeongin/baekjoon_string)
+* [Loop](https://github.com/Hongjeongin/baekjoon_for)
+* [Array](https://github.com/Hongjeongin/baekjoon_array)
+* [Function](https://github.com/Hongjeongin/baekjoon_function)
+* [Math](https://github.com/Hongjeongin/baekjoon_math)
+
+### Language Study: Python
+* [Python Practice 1-300](https://github.com/Hongjeongin/python_practice-1-300)
+* [Document Study](https://github.com/Hongjeongin/python_docs)
+* [Code Level Test](https://github.com/Hongjeongin/code_test)
+
+### Language Study: Java
+* [Data Structure](https://github.com/Hongjeongin/backjoon_DataStructure)
