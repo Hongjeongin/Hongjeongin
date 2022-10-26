@@ -39,3 +39,5 @@
 ### Portfolio
 * [Version_1.1](https://github.com/Hongjeongin/portFoilo)
 * [Version_1.2](https://github.com/Hongjeongin/Portfolio_v_1.2)
+
+### Language Study: JavaScript
