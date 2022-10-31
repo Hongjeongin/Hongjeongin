@@ -42,3 +42,5 @@
 * [Version_1.2](https://github.com/Hongjeongin/Portfolio_v_1.2)
 
 ### Language Study: JavaScript
+* [NomadCoder Vanilla JS](https://github.com/Hongjeongin/Practice-javascript)
+* [Node.JS](https://github.com/Hongjeongin/Test-NodeJS)
