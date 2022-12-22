@@ -34,10 +34,10 @@
 * [Document Study](https://github.com/Hongjeongin/python_docs)
 * [Code Level Test](https://github.com/Hongjeongin/code_test)
 
- #### Django
-* [Django tutorial](https://github.com/Hongjeongin/django_tutorial)
-* [Django Rest Framework tutorial](https://github.com/Hongjeongin/django_rest_framework_tutorial)
-* [Quiz Builder App](https://github.com/Hongjeongin/Quiz-Builder-App)
+  #### Django
+  * [Django tutorial](https://github.com/Hongjeongin/django_tutorial)
+  * [Django Rest Framework tutorial](https://github.com/Hongjeongin/django_rest_framework_tutorial)
+  * [Quiz Builder App](https://github.com/Hongjeongin/Quiz-Builder-App)
 
 ### Language Study: Java
 * [Data Structure](https://github.com/Hongjeongin/backjoon_DataStructure)
