@@ -5,6 +5,7 @@
 
 ## Using Skills
 ![PYTHON](https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![DJANGO](https://img.shields.io/badge/-DJANGO-305315?style=for-the-badge&logo=Django&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
