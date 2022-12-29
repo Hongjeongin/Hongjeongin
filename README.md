@@ -15,6 +15,7 @@
 ![NODE.JS](https://img.shields.io/badge/-Node.JS-339933?style=for-the-badge&logo=Node.JS&logoColor=white)
 
 ## Communication and Version Control
+![GIT](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white)
 ![TRELLO](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white)
