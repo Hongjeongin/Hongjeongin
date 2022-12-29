@@ -22,22 +22,22 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongjeongin&layout=compact&theme=tokyonight)
 
 ## Repositories
+### Language Study: Python
+* [Python Practice 1-300](https://github.com/Hongjeongin/python_practice-1-300)
+* [Document Study](https://github.com/Hongjeongin/python_docs)
+* [Code Level Test](https://github.com/Hongjeongin/code_test)
+
+ #### Django
+  * [Django tutorial](https://github.com/Hongjeongin/django_tutorial)
+  * [Django Rest Framework tutorial](https://github.com/Hongjeongin/django_rest_framework_tutorial)
+  * [Quiz Builder App](https://github.com/Hongjeongin/Quiz-Builder-App)
+
 ### Language Study: C
 * [String](https://github.com/Hongjeongin/baekjoon_string)
 * [Loop](https://github.com/Hongjeongin/baekjoon_for)
 * [Array](https://github.com/Hongjeongin/baekjoon_array)
 * [Function](https://github.com/Hongjeongin/baekjoon_function)
 * [Math](https://github.com/Hongjeongin/baekjoon_math)
-
-### Language Study: Python
-* [Python Practice 1-300](https://github.com/Hongjeongin/python_practice-1-300)
-* [Document Study](https://github.com/Hongjeongin/python_docs)
-* [Code Level Test](https://github.com/Hongjeongin/code_test)
-
-  #### Django
-  * [Django tutorial](https://github.com/Hongjeongin/django_tutorial)
-  * [Django Rest Framework tutorial](https://github.com/Hongjeongin/django_rest_framework_tutorial)
-  * [Quiz Builder App](https://github.com/Hongjeongin/Quiz-Builder-App)
 
 ### Language Study: Java
 * [Data Structure](https://github.com/Hongjeongin/backjoon_DataStructure)
