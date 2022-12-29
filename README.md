@@ -11,8 +11,8 @@
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![NODE.JS](https://img.shields.io/badge/-Node.JS-339933?style=for-the-badge&logo=Node.JS&logoColor=white)
+![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)   
+![NODE.JS](https://img.shields.io/badge/-Node.JS-white?style=for-the-badge&logo=Node.JS&logoColor=339933)
 
 ## Communication and Version Control
 ![GIT](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=Git&logoColor=white)
@@ -20,8 +20,8 @@
 ![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white)
 ![TRELLO](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white)
 ![Miro](https://img.shields.io/badge/-Miro-F7DF1E?style=for-the-badge&logo=Miro&logoColor=black)
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
-![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)   
+![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&border&logo=Telegram&logoColor=26A5E4)
 
 ## Github Stats Graph
 ![Git_stat](https://github-readme-stats.vercel.app/api?username=Hongjeongin&show_icons=true&theme=highcontrast)
