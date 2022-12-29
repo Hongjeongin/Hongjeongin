@@ -21,6 +21,7 @@
 ![TRELLO](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white)
 ![Miro](https://img.shields.io/badge/-Miro-F7DF1E?style=for-the-badge&logo=Miro&logoColor=black)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
+![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)
 
 ## Github Stats Graph
 ![Git_stat](https://github-readme-stats.vercel.app/api?username=Hongjeongin&show_icons=true&theme=highcontrast)
