@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHongjeongin%2FHongjeongin&count_bg=%2328C24D&title_bg=%232148C6&icon=github.svg&icon_color=%23FFFFFF&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 # Hello, I'm Jeongin Hong
 > ### Welcome to my Github
 > ### My Portfolio(URL) - <http://hji-portfolio.shop>   
@@ -18,8 +19,9 @@
 ![TRELLO](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white)
 ![Miro](https://img.shields.io/badge/-Miro-F7DF1E?style=for-the-badge&logo=Miro&logoColor=black)
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongjeongin&layout=compact&theme=tokyonight)
+## Github Stats Graph
+![Git_stat](https://github-readme-stats.vercel.app/api?username=Hongjeongin&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongjeongin&layout=compact&theme=highcontrast)
 
 ## Repositories
 ### Language Study: Python
