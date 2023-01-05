@@ -3,7 +3,7 @@
 > ### Welcome to my Github
 > ### My Portfolio(URL) - <http://hji-portfolio.shop>   
 
-## Useable OS
+## Usable OS
 ![WINDOWS](https://img.shields.io/badge/-WINDOWS-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
 ![UBUNTU](https://img.shields.io/badge/-UBUNTU-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
