@@ -16,7 +16,8 @@
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)   
+![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)   
 ![NODE.JS](https://img.shields.io/badge/-Node.JS-white?style=for-the-badge&logo=Node.JS&logoColor=339933)
 
 ## Communication and Version Control
