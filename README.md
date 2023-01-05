@@ -3,6 +3,11 @@
 > ### Welcome to my Github
 > ### My Portfolio(URL) - <http://hji-portfolio.shop>   
 
+## Useable OS
+![WINDOWS](https://img.shields.io/badge/-WINDOWS-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
+![UBUNTU](https://img.shields.io/badge/-UBUNTU-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
+
+
 ## Using Skills
 ![PYTHON](https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/-DJANGO-305315?style=for-the-badge&logo=Django&logoColor=white)
