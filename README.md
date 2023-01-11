@@ -38,6 +38,7 @@
 * [Python Practice 1-300](https://github.com/Hongjeongin/python_practice-1-300)
 * [Document Study](https://github.com/Hongjeongin/python_docs)
 * [Code Level Test](https://github.com/Hongjeongin/code_test)
+* [Code Test Practice Lv.2](https://github.com/Hongjeongin/programmers_code_test)
 
   #### Django
   * [Django tutorial](https://github.com/Hongjeongin/django_tutorial)
