@@ -32,6 +32,7 @@
 ## Github Stats Graph
 ![Git_stat](https://github-readme-stats.vercel.app/api?username=Hongjeongin&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongjeongin&layout=compact&theme=highcontrast)
+![](https://github-readme-stats.vercel.app/api?username=Hongjeongin&show_icons=true&theme=radical)
 
 ## Repositories
 ### Language Study: Python
