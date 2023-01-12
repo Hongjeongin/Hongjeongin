@@ -30,7 +30,7 @@
 ![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&border&logo=Telegram&logoColor=26A5E4)
 
 ## Github Stats Graph
-![Git_stat](https://github-readme-stats.vercel.app/api?user=Hongjeongin&show_icons=true&theme=highcontrast)
+![Git_stat](https://github-readme-stats.vercel.app/api?user=Hongjeongin&username=Hongjeongin&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongjeongin&layout=compact&theme=highcontrast)
 
 ## Repositories
