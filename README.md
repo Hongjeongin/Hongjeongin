@@ -7,25 +7,23 @@
 ![WINDOWS](https://img.shields.io/badge/-WINDOWS-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
 ![UBUNTU](https://img.shields.io/badge/-UBUNTU-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
-
 ## Using Skills
+![NODE.JS](https://img.shields.io/badge/-Node.JS-white?style=for-the-badge&logo=Node.JS&logoColor=339933)  
 ![React.js](https://img.shields.io/badge/-REACT-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white)
-![DOCKER](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)  
 ![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![NODE.JS](https://img.shields.io/badge/-Node.JS-white?style=for-the-badge&logo=Node.JS&logoColor=339933)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)
+![DOCKER](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
 ## Communication and Version Control
 ![GIT](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white)
+![TRELLO](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white)  
 ![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white)
-![TRELLO](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white)
 ![Miro](https://img.shields.io/badge/-Miro-F7DF1E?style=for-the-badge&logo=Miro&logoColor=black)
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)   
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 ![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&border&logo=Telegram&logoColor=26A5E4)
 
 ## Github Stats Graph
