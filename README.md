@@ -3,6 +3,9 @@
 > ### Welcome to my Github
 > ### My Portfolio(URL) - <http://hji-portfolio.shop>   
 
+## Algorithm Level
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elwlsekzlr1)](https://solved.ac/elwlsekzlr1/)
+
 ## Usable OS
 ![WINDOWS](https://img.shields.io/badge/-WINDOWS-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
 ![UBUNTU](https://img.shields.io/badge/-UBUNTU-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
@@ -26,15 +29,10 @@
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 ![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&border&logo=Telegram&logoColor=26A5E4)
 
-## Algorithm Level
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elwlsekzlr1)](https://solved.ac/elwlsekzlr1/)
-
-
 ## Github Stats Graph
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongjeongin&layout=compact&theme=highcontrast)   
 ![Git_stat](https://github-readme-stats.vercel.app/api?username=Hongjeongin&show_icons=true&theme=highcontrast)   
 ![](https://github-readme-stats.vercel.app/api?username=Hongjeongin&show_icons=true&theme=radical)   
-
 
 ## Repositories
 ### Language Study: Python
