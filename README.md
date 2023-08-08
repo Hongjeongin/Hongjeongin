@@ -27,7 +27,7 @@
 ![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&border&logo=Telegram&logoColor=26A5E4)
 
 ## Algorithm Level
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=elwlsekzlr1)](https://solved.ac/elwlsekzlr1)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elwlsekzlr1)](https://solved.ac/elwlsekzlr1/)
 
 
 ## Github Stats Graph
